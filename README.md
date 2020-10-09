@@ -1,2 +1,2 @@
-# Cousera_FirstProject
-Primeiro Projeto do Cousera Data Science
+# datasciencecoursera
+Repository for cousera datascience course
